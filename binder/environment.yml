@@ -1,0 +1,15 @@
+name: hi-perf-ipynb-multithreading
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - joblib=0.11
+  - python=3.6.2
+  - matplotlib=2.0.2
+  - numpy=1.13.1
+  - scipy=0.19.1
+  - py-cpuinfo=3.3.0
+  - pyfftw=0.10.4
+  - ipykernel=4.6.1
+  - mkl-service=1.1.2
+  - numpy=1.13.1
